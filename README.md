@@ -11,7 +11,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,jest,html,css)
 
-# ❤️ Мои проекты:
+# 🛠️ Мои проекты:
 
 Клон игры BattleCity (командный проект):
 https://github.com/FrontHeads/tanchiki
