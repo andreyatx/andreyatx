@@ -19,9 +19,6 @@ https://github.com/FrontHeads/tanchiki
 Реактивный чат без использования фреймворков:
 https://github.com/andreyatx/WebChat
 
-## Резюме:
-
-
 ## ✉️ Связаться со мной:
 
 * ✉️ andrey9823@yandex.ru
