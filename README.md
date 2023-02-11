@@ -18,7 +18,7 @@ https://github.com/FrontHeads/tanchiki
 
     демо: https://frontheads.github.io/
 
-* Реактивный чат без использования фреймворков:
+* Реактивный чат с самописной системой комопнентов:
 https://github.com/andreyatx/WebChat
 
 ## ✉️ Связаться со мной:
