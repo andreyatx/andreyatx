@@ -24,4 +24,4 @@ https://github.com/andreyatx/WebChat
 ## ✉️ Связаться со мной:
 
 * ✉️ andrei9823@yandex.ru
-*  <a href="https://t.me/yatxv1"> TG: @yatxv1</a>
+*  <a href="https://t.me/yatxv1"> telegram: @yatxv1</a>
