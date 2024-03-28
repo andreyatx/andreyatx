@@ -16,7 +16,7 @@
 * Клон игры BattleCity (командный проект):
 https://github.com/FrontHeads/tanchiki
 
-🎮 Поиграть можно здесь: https://frontheads.github.io/
+  🎮 Поиграть можно здесь: https://frontheads.github.io/
 
 * Реактивный чат с самописной системой комопнентов:
 https://github.com/andreyatx/WebChat
